@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	background: #CCCCCC;
 }
@@ -12,4 +13,16 @@ p {
 
 em strong {
 	color: green;
+=======
+body {
+	background: #CCCCCC
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color: red;
+>>>>>>> ef50ef14459757eb3cf7afe5ee782dff66383cfa
 }
