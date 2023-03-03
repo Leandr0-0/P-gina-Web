@@ -1,4 +1,12 @@
 body {
+	
+}
+
+#image {
+	width: 100%;
+}
+
+.principal {
 	background: #CCCCCC;
 }
 
@@ -13,3 +21,13 @@ p {
 em strong {
 	color: green;
 }
+
+.itens {
+	font-style: italic;
+}
+
+.vantagens {
+	background: #FFFFFF;
+}
+
+
