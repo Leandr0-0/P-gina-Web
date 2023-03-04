@@ -4,12 +4,13 @@
 }
 
 .principal {
-	background: #CCCCCC;
+	background: #00BFFF;
 	padding: 30px;
 }
 
 .titulo-principal {
 	padding-left: 20px;
+	background: #4169E1;
 }
 
 .titulo-centralizado {
@@ -21,7 +22,7 @@ p {
 }
 
 em strong {
-	color: green;
+	color: blue;
 }
 
 .itens {
@@ -29,7 +30,7 @@ em strong {
 }
 
 .vantagens {
-	background: #FFFFFF;
+	background: #87CEFA;
 	padding: 20px;
 }
 
