@@ -9,8 +9,10 @@
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	padding-left: 40px;
+	padding: 10px;
 	background: #4169E1;
+	margin: 0;
 }
 
 .titulo-centralizado {
@@ -32,6 +34,7 @@ em strong {
 .vantagens {
 	background: #87CEFA;
 	padding: 20px;
+	font-size: 24px
 }
 
 ul {
