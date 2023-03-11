@@ -1,0 +1,49 @@
+
+#image {
+	width: 100%;
+}
+
+.principal {
+	background: #00BFFF;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 40px;
+	padding: 10px;
+	background: #4169E1;
+	margin: 0;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color: blue;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.vantagens {
+	background: #87CEFA;
+	padding: 20px;
+	font-size: 24px
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagemluto {
+	width: 50%;
+}
